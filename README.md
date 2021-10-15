@@ -1,2 +1,2 @@
-# c205-project-solution
+# c205-projecT
 project solution for 205
